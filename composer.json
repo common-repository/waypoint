@@ -1,0 +1,11 @@
+{
+    "name": "sideways8/waypoint",
+    "authors": [
+        {
+            "name": "Marty Eason",
+            "email": "martye@sideways8.com",
+            "role": "Developer"
+        }
+    ],
+    "type": "wordpress-plugin"
+}
